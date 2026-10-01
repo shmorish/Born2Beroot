@@ -1,0 +1,3 @@
+# Man pages, not hand-written source.
+# Keeps it out of GitHub language statistics.
+*.[1-9] linguist-detectable=false
